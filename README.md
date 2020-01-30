@@ -7,3 +7,4 @@ if it wasn't for God, I wouldnt be able to do this.
 Glory be to the highone!
 this would be absolutely amazing. really!
 how about this!
+ " this is where i get to use git!"
